@@ -22,7 +22,7 @@
 
 ## Overview
 
-![screenshot](/img/my_team.PNG)
+A Stripe Landing page bulit with React.js
 
 ### Built With
 
